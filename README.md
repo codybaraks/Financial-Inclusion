@@ -43,6 +43,6 @@ from sklearn.metrics import accuracy_score
 # Accuracy
 from sklearn.metrics import accuracy_score
 ```
-![Image of Yaktocat](https://drive.google.com/open?id=1Bzm9E0Wg7E2x0XDlqFF3CwzC_vwsH5LT)
+![Image of Yaktocat](https://github.com/codybaraks/Financial-Inclusion/blob/master/household%20size.PNG)
 #### A Graph of Household-Size in comparison to the Age of respondent
 
