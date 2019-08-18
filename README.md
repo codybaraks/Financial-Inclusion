@@ -1,8 +1,9 @@
 # Financial-Inclusion
-
+##### Short Desc
+Financial inclusion is where individuals and businesses have access to useful and affordable financial products and services that meet their needs that are delivered in a responsible and sustainable way.
 **The purpose for this project**
 
-###The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account. Your solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
+### The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account. Your solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
 
 **Libraries and Imports**
 
@@ -42,4 +43,6 @@ from sklearn.metrics import accuracy_score
 # Accuracy
 from sklearn.metrics import accuracy_score
 ```
+![Image of Yaktocat](https://drive.google.com/open?id=1Bzm9E0Wg7E2x0XDlqFF3CwzC_vwsH5LT)
+#### A Graph of Household-Size in comparison to the Age of respondent
 
